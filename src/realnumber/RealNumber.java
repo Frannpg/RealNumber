@@ -10,7 +10,7 @@ import java.math.RoundingMode;
  * 
  * @see realnumber.RealNumberTest
  * 
- * Tus muertos
+ * 
  * 
  * @author <i><font color="purple" size="+1">Fco Javier Pérez García</font></i>
  * @since 22/03/2022
