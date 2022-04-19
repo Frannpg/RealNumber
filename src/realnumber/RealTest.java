@@ -7,7 +7,7 @@ import java.util.Scanner;
  * 
  * @see realnumber.RealNumber
  * 
- * @author <i><font color="purple" size="+1">Fco Javier Pérez García</font></i>
+ * @author <i><font color="purple" size="+1">Fco Javier Pérez Garcia</font></i>
  * @since 22/03/2022
  * @version 1.0
  */
